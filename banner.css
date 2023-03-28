@@ -1,0 +1,97 @@
+
+body{
+    color: white;
+}
+.child{
+    width: 33%;
+    border: 1px solid black;
+    height: auto;
+}
+
+.mid-child{
+    width: 34%;
+    border: 1px solid black;
+    height: auto;
+    background-color: #303e47;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    padding-bottom: 1%;
+}
+
+.inner-child{
+    height: auto;
+    width: 100%;
+    /* background-color: aqua; */
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+[alt="child-crossing"]{
+
+    width: 18%;
+    margin-top: 1%;
+    margin-left: 0%;
+}
+
+[for="obesity"]{
+    font-size: xxx-large;
+    margin-left: -20%;
+    color: red;
+}
+
+
+[for="childhood"]{
+    font-size: small;
+    margin-top: 12%;
+    margin-left: -55%;
+    color: white;
+}
+.child2-1{
+    height: 100%;
+    width: 50%;
+    background-color: #fe9f18;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.child2-2{
+    height: 100%;
+    width: 50%;
+    background-color: #00b2e2;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+[alt="human-img"]{
+
+    height: 35px;
+    
+}
+.child3{
+    background-color: #fe5a58;
+}
+.child3-p{
+   overflow: hidden;
+}
+
+[alt="smoking"],[alt="poverty"],[alt="poinsettia"]{
+  height: 20px;
+  
+}
+
+[alt="warning"],[alt="french-fries"],[alt="cocktail"],[alt="money"]{
+
+    height: 40px;
+}
+[alt="smart-tv"],[alt="bicycle"]{
+   /* height: 30%; */
+   width: 100%;
+}
+.child8{
+    text-align: center;
+    padding: 2%;
+}
